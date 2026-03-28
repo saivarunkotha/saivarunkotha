@@ -34,7 +34,7 @@ I enjoy turning messy, raw data into clear decisions — whether that's through 
 
 ## 🚀 Featured projects
 
-### 🔵 Classification & Prediction (Capstone)
+### 🔵 Fake News Detection Using SVM & NLP (Capstone)
 **UMBC Data Science Capstone** — Built a classification model to predict outcomes from structured real-world data. Applied feature engineering, model comparison (Logistic Regression, Random Forest, XGBoost), and deployed an interactive Streamlit app for live predictions.  
 `Python` `scikit-learn` `XGBoost` `Streamlit` `Pandas`  
 [→ View project](https://github.com/saivarunkotha/UMBC-DATA606-Capstone)
