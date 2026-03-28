@@ -1,7 +1,7 @@
 # Hi, I'm Saivarun Kotha 👋
 
 **MS Data Science @ UMBC | Data Analyst · Data Engineer · ML Engineer**  
-📍 Baltimore, MD &nbsp;|&nbsp; 📫 [LinkedIn](https://linkedin.com/in/saivarunkotha)
+📍 Bellevue,WA &nbsp;|&nbsp; 📫 [LinkedIn](https://linkedin.com/in/saivarunkotha)
 
 ---
 
