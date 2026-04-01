@@ -51,7 +51,7 @@ I enjoy turning messy, raw data into clear decisions — whether that's through 
 ### 🟢 Customer Churn Prediction
 **End-to-end ML project** — Merged 6 data sources, engineered features, trained Logistic Regression, Random Forest and XGBoost models achieving AUC-ROC of 0.9903. Added SHAP explainability and deployed as a live Streamlit web app.  
 `Python` `scikit-learn` `XGBoost` `SHAP` `Streamlit` `Pandas`  
-[→ View project](https://github.com/saivarunkotha/customer-churn-prediction) &nbsp;|&nbsp; [→ Live Demo](YOUR_STREAMLIT_URL_HERE)
+[→ View project](https://github.com/saivarunkotha/customer-churn-prediction) &nbsp;|&nbsp; [→ Live Demo](https://customer-churn-prediction-39w2yfitlw2qyqx8yhgepw.streamlit.app/)
 
 ---
 
