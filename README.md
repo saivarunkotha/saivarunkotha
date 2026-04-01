@@ -1,15 +1,15 @@
 # Hi, I'm Saivarun Kotha 👋
 
 **MS Data Science @ UMBC | Data Analyst · Data Engineer · ML Engineer**  
-📍 Baltimore, MD &nbsp;|&nbsp; 📫 [LinkedIn](https://linkedin.com/in/saivarunkotha)
+📍 Bellevue,WA &nbsp;|&nbsp; 📫 [LinkedIn](https://linkedin.com/in/saivarunkotha)
 
 ---
 
 ## About me
 
-I'm a data scientist with hands-on experience building end-to-end ML pipelines, analyzing large-scale datasets, and deploying predictive models that solve real business problems. Currently completing my Master's in Data Science at UMBC, with a focus on classification, prediction, and big data processing.
+I'm a data scientist with hands on experience building end to end ML pipelines, analyzing large scale datasets, and deploying predictive models that solve real business problems. Currently completing my Master's in Data Science at UMBC, with a focus on classification, prediction, and big data processing.
 
-I enjoy turning messy, raw data into clear decisions — whether that's through a well-tuned model, a clean SQL query, or an interactive dashboard.
+I enjoy turning messy, raw data into clear decisions whether that's through a well tuned model, a clean SQL query, or an interactive dashboard.
 
 ---
 
@@ -22,7 +22,7 @@ I enjoy turning messy, raw data into clear decisions — whether that's through 
 `scikit-learn` &nbsp; `TensorFlow` &nbsp; `PyTorch` &nbsp; `XGBoost`
 
 **Data Engineering & Big Data**
-`Apache Spark` &nbsp; `Hadoop` &nbsp; `MapReduce` &nbsp; `ETL Pipelines`
+`Apache Spark` &nbsp; `Hadoop` &nbsp; `MapReduce` &nbsp; `ETL Pipelines` 
 
 **Visualization & BI**
 `Tableau` &nbsp; `Power BI` &nbsp; `Matplotlib` &nbsp; `Seaborn` &nbsp; `Plotly`
@@ -34,8 +34,8 @@ I enjoy turning messy, raw data into clear decisions — whether that's through 
 
 ## 🚀 Featured projects
 
-### 🔵 Classification & Prediction (Capstone)
-**UMBC Data Science Capstone** — Built a classification model to predict outcomes from structured real-world data. Applied feature engineering, model comparison (Logistic Regression, Random Forest, XGBoost), and deployed an interactive Streamlit app for live predictions.  
+### 🔵 Fake News Detection Using SVM & NLP (Capstone)
+**UMBC Data Science Capstone** — Built a classification model to predict outcomes from structured real world data. Applied feature engineering, model comparison (Logistic Regression, Random Forest, XGBoost), and deployed an interactive Streamlit app for live predictions.  
 `Python` `scikit-learn` `XGBoost` `Streamlit` `Pandas`  
 [→ View project](https://github.com/saivarunkotha/UMBC-DATA606-Capstone)
 
@@ -70,7 +70,7 @@ I enjoy turning messy, raw data into clear decisions — whether that's through 
 
 ## 📫 Let's connect
 
-If you're hiring for data analyst, data engineer, or ML engineer roles — I'd love to connect.
+If you're hiring for data analyst, data engineer, or ML engineer roles I'd love to connect.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saivarunkotha-blue?style=flat&logo=linkedin)](https://linkedin.com/in/saivarunkotha)
 [![GitHub](https://img.shields.io/badge/GitHub-saivarunkotha-black?style=flat&logo=github)](https://github.com/saivarunkotha)
