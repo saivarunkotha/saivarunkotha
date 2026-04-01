@@ -48,17 +48,23 @@ I enjoy turning messy, raw data into clear decisions — whether that's through 
 
 ---
 
-## 📈 What I'm working on
+### 🟢 Customer Churn Prediction
+**End-to-end ML project** — Merged 6 data sources, engineered features, trained Logistic Regression, Random Forest and XGBoost models achieving AUC-ROC of 0.9903. Added SHAP explainability and deployed as a live Streamlit web app.  
+`Python` `scikit-learn` `XGBoost` `SHAP` `Streamlit` `Pandas`  
+[→ View project](https://github.com/saivarunkotha/customer-churn-prediction) &nbsp;|&nbsp; [→ Live Demo](YOUR_STREAMLIT_URL_HERE)
 
-- Building a customer churn prediction dashboard with SHAP explainability
-- Expanding my SQL + Python analytics portfolio with business-focused EDA projects
-- Practicing end-to-end ML deployment with FastAPI and Streamlit
+---
+
+## 📈 What I'm working on
+- Expanding SQL + Python analytics portfolio with business-focused EDA projects
+- Exploring FastAPI for ML model serving
+
 
 ---
 
 ## 📊 GitHub stats
 
-![Saivarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=saivarunkotha&show_icons=true&hide_border=true&theme=default)
+![Saivarun's GitHub stats](![Saivarun's GitHub stats](https://github-readme-stats.vercel.app/...)
 
 ---
 
